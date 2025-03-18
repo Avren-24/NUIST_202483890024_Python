@@ -1,1 +1,3 @@
 # NUIST_202483890024_Python
+#Shuo Wang
+#Student ID :202483890024
